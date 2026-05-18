@@ -1,16 +1,18 @@
-## Hi there 👋
+# Halo semua, saya Yofandy Akbar 👋
 
-<!--
-**yofandyxx/yofandyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seorang mahasiswa Teknik Komputer yang berfokus pada Full-Stack Web Development, Mobile Apps, dan IoT.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Web Development:** PHP, Laravel, React.js, Bootstrap
+- **Mobile Development:** Flutter, Java/Kotlin (Android Studio)
+- **IoT & Embedded Systems:** ESP32, Arduino, MQTT, Sensor Integration
+- **Networking & Tools:** GNS3, VMware, Network Subnetting, SolidWorks
+  ## this is all still under development
+
+---
+
+### 📊 GitHub Stats
+
