@@ -15,4 +15,5 @@ Seorang mahasiswa Teknik Komputer yang berfokus pada Full-Stack Web Development,
 ---
 
 ### 📊 GitHub Stats
+![Statistik GitHub Yofandy](https://github-readme-stats.vercel.app/api?username=yofandyxx&show_icons=true&theme=radical)
 
